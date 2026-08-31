@@ -1,0 +1,37 @@
+# Python dependencies & virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Frontend dependencies & builds
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Local databases & assets
+backend/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Presentation / Archives
+BorderVision_AI_Submission.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.env
+*.env
